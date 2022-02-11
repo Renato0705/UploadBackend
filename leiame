@@ -1,0 +1,3 @@
+variavel de ambiente Oracle Instant Cliente para Linux
+
+export LD_LIBRARY_PATH=/home/renato/oracle/instantclient_21_4:$LD_LIBRARY_PATH
